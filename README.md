@@ -1,2 +1,3 @@
-# ehy-training.github.io
-Repository for my profile homepage at github.io
+# Enno Hyttrek . Dozent
+Training, Schulungen und Tutorials im digitalen Design.
+
